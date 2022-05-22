@@ -7,8 +7,8 @@ import (
 	"github.com/gin-gonic/gin"
 	log "github.com/sirupsen/logrus"
 
-	httpLogger "github.com/nickxb/gin-http-logger"
-	formatters "github.com/nickxb/gin-http-logger/logrus-formatters"
+	httpLogger "github.com/smallfish-root/gin-http-logger"
+	formatters "github.com/smallfish-root/gin-http-logger/logrus-formatters"
 )
 
 func main() {
